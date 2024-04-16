@@ -56,10 +56,6 @@ Breast cancer is one of the most common cancers among women worldwide. Early det
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to the scikit-learn and Streamlit communities for their excellent libraries and resources.
