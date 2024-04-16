@@ -47,7 +47,7 @@ Breast cancer is one of the most common cancers among women worldwide. Early det
 2. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run app/app.py
     ```
 
 3. Access the web application in your browser at `http://localhost:8501`.
